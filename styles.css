@@ -1,0 +1,14 @@
+html{
+    height:100%;
+}
+body{
+    margin:0;
+    height:100%;
+}
+#wrapper{
+    background-image:linear-gradient(#fff, #000);
+    /* used linear-gradient instead of image - same thing */
+    display:none;
+    height:100%;
+    width:100%;
+}
